@@ -1,17 +1,6 @@
 Paste all the code here
 Student.h:
-  
-Roster.h:
-  
-Degree.h:
-  
-Student.cpp:
-  
-Roster.cpp:
-  
-main.cpp:
-  
-enum DegreeProgram{
+  enum DegreeProgram{
     SECURITY, NETWORK, SOFTWARE
     };
 
@@ -58,3 +47,14 @@ void setDegreeProgram(DegreeProgram degreeProgram){this->degreeProgram = degreeP
 //Print function
 
 };
+
+Roster.h:
+  
+Degree.h:
+  
+Student.cpp:
+  
+Roster.cpp:
+  
+main.cpp:
+  
